@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+html, body{
+  background-color: #0F032D;
+}
+
+.h1s{
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.h2s{
+  font-weight: 900;
+  font-size: 30px;
+}
+
