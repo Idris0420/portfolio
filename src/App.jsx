@@ -36,7 +36,7 @@ function App() {
     <div id="aboutMe" className=" h-[100vh] flex flex-col justify-center items-center gap-12">
     <h1 className="h1s">About me</h1>
     <img className="w-[55vw] max-w-[300px] aspect-[1/1] " src={sung} alt="" />
-    <p className="w-[70vw]">Hi! I'm a 19-year-old developer from the Philippines with an enthusiasm for developing dynamic web applications. My area of expertise lies in the MERN stack: MongoDB, Express.js, React, and Node.js. </p>
+    <p className="w-[70vw] max-w-[500px]">Hi! I'm a 19-year-old developer from the Philippines with an enthusiasm for developing dynamic web applications. My area of expertise lies in the MERN stack: MongoDB, Express.js, React, and Node.js. </p>
     </div>
     <div className=" h-[100vh] pt-[80px] flex justify-start items-center flex-col">
       <h1 id="Skills" className="h1s">Skills</h1>
